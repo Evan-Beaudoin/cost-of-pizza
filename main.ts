@@ -1,3 +1,7 @@
+// #Created by: Evan
+// #Created on: Oct. 2020
+// 
+// #This program calculates the cost of making a pizza
 let HST = 1.13
 let LABOUR_COST = 0.75
 let RENT_COST = 1
